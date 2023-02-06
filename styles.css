@@ -1,0 +1,60 @@
+
+header > img {
+    width: 100%;  
+    border-style: double;
+    border-color: rgb(255, 20, 235);
+}
+
+header > h1{
+    color: darkviolet;
+    font-style: normal;  
+    text-align: center;  
+}
+
+header > time{
+    color: darkmagenta;
+    font-style: normal;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+h3{
+    color: black;
+    font-style: normal;
+    text-align: center;
+}
+
+
+p{
+    font-size: medium;
+    color: darkslateblue;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+section img {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style:groove;
+    border-color:blueviolet;
+    
+}
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+    
+    
